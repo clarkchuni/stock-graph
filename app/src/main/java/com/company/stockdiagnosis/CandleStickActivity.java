@@ -99,6 +99,7 @@ public class CandleStickActivity extends AppCompatActivity {
                candleDataSet.setShadowWidth(1f);
 
 
+
                 XAxis xAxisCandle = candleStickChart.getXAxis();
                 xAxisCandle.setPosition(XAxis.XAxisPosition.BOTTOM);
 
